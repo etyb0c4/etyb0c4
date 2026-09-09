@@ -111,7 +111,7 @@ Goal       →  <coming soon.../>
 
 ### 📊 Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&card_width=450" alt="stats">
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=etyb0c4&theme=shadow_red&hide_border=true&layout=compact&card_width=320" alt="top langs">
 </p>
@@ -126,4 +126,4 @@ Goal       →  <coming soon.../>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etyb0c4&style=flat-square&color=B4342B&label=Profile+views" alt="views">
-</p>
+</p> -->
