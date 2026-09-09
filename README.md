@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:B4342B,100:121011&height=190&section=header&text=Rayan%20SAMA&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Epitech%20Benin%20%C2%B7%20Full-stack%20%26%20Security&descSize=16&descAlignY=56" alt="Rayan SAMA" width="100%">
-</p>
+<h1 align="center"><b>Rayan SAMA</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=B4342B&center=true&vCenter=true&width=520&height=40&lines=Full-stack+developer;Offensive+%26+defensive+security;CTF+player+%40+HTB+%2F+Root-Me;I+build+my+own+tools" alt="typing">
