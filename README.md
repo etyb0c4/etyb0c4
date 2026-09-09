@@ -1,7 +1,7 @@
 <h1 align="center">Rayan Sama</h1>
 
 <p align="center">
-  <em>Étudiant Epitech · dev bas niveau en C, front en React · passionné cybersécurité offensive</em>
+  <em>Étudiant Epitech Benin · dev full stack · passionné cybersécurité offensive-defensive</em>
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 
 ### 👋 À propos
 
-- 🎓 Étudiant à **Epitech**, où j'apprends à casser des choses en C avant de les réparer
-- 🛡️ Je passe mon temps libre sur des **machines boot2root** et du pentest (HTB / TryHackMe)
+- 🎓 Étudiant à **Epitech**, où j'apprends à construire des systemes, avant de les casser
+- 🛡️ Je passe mon temps libre sur du **pentest** (HTB / rootme) et des *ctf* (capture the flag)
 - 🧰 Je construis mes propres outils quand ceux qui existent me ralentissent
-- 🌍 FR / EN — ouvert aux **stages** et aux projets open source
-- 📫 Le plus simple pour me joindre : **ryansama.tech@gmail.com**
+- 🌍 FR / EN — ouvert aux **stages** - **emplois** et aux **projets** (open source ou non)
 
 ### 🔭 En ce moment
 
@@ -50,8 +49,8 @@ Objectif    →  <ton objectif de l'année, ex: OSCP / un stage / 1000 commits>
 **Outils & environnement**
 
 ![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/VsCode-57A143?style=flat-square&logo=neovim&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -61,53 +60,6 @@ Objectif    →  <ton objectif de l'année, ex: OSCP / un stage / 1000 commits>
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnu&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
----
-
-### 🚀 Projets
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**♟️ [Échecs 3D](https://github.com/etyb0c4/echec-game)**
-
-Jeu d'échecs 3D complet en Three.js : caméra orbitale, ombres, animations de déplacement et IA adversaire.
-
-`JavaScript` `Three.js`
-
-</td>
-<td width="50%" valign="top">
-
-**🖥️ [Portfolio](https://github.com/etyb0c4/portfolio)**
-
-Mon site perso, construit en React + Vite avec Tailwind. Déployé automatiquement via GitHub Actions.
-
-`React` `Vite` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 [Jarvis HUD](https://github.com/etyb0c4/jarvis_hud)**
-
-Interface HUD animée façon Iron Man, en React. Un terrain de jeu pour l'animation et le canvas.
-
-`React` `Canvas`
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ [b2r-kit](https://github.com/etyb0c4/b2r-kit)**
-
-Boîte à outils boot2root : automatise la recon et compresse la sortie des outils pour aller plus vite sur une machine.
-
-`Python` `Bash` `Pentest`
-
-</td>
-</tr>
-</table>
 
 ---
 
