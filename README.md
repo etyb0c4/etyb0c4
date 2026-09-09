@@ -1,7 +1,9 @@
-<h1 align="center">Rayan SAMA</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121011,50:B4342B,100:121011&height=190&section=header&text=Rayan%20SAMA&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Epitech%20Benin%20%C2%B7%20Full-stack%20%26%20Security&descSize=16&descAlignY=56" alt="Rayan SAMA" width="100%">
+</p>
 
 <p align="center">
-  <em>Epitech Benin student · full-stack developer · offensive &amp; defensive security enthusiast</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=B4342B&center=true&vCenter=true&width=520&height=40&lines=Full-stack+developer;Offensive+%26+defensive+security;CTF+player+%40+HTB+%2F+Root-Me;I+build+my+own+tools" alt="typing">
 </p>
 
 <p align="center">
@@ -18,19 +20,18 @@
 - 🛡️ I spend my free time on **pentesting** (HackTheBox, Root-Me) and **CTFs**
 - 🧰 I build my own tools whenever the existing ones slow me down
 - 🌍 FR / EN — open to **internships**, **jobs** and **projects**, open source or not
-- 📍 Currently located at Cotonou, Benin 🇧🇯
 
 ### 🔭 Currently
 
 ```text
-Building   →  <coming...>
-Learning   →  <coming...>
-Goal       →  <coming...>
+Building   →  <your main project right now>
+Learning   →  Rust, binary exploitation, Docker
+Goal       →  <your goal for the year>
 ```
 
 ---
 
-### 🧰 Stack
+### 💻 Stack
 
 **Languages**
 
@@ -52,6 +53,8 @@ Goal       →  <coming...>
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
@@ -108,8 +111,8 @@ Goal       →  <coming...>
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&card_width=450" alt="stats">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&layout=compact&card_width=320" alt="top langs">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&card_width=450" alt="stats">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=etyb0c4&theme=shadow_red&hide_border=true&layout=compact&card_width=320" alt="top langs">
 </p>
 
 <p align="center">
