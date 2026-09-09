@@ -26,9 +26,9 @@
 ### 🔭 Currently
 
 ```text
-Building   →  <your main project right now>
-Learning   →  Rust, binary exploitation, Docker
-Goal       →  <your goal for the year>
+Building   →  <coming soon.../>
+Learning   →  <coming soon.../>
+Goal       →  <coming soon.../>
 ```
 
 ---
@@ -55,7 +55,6 @@ Goal       →  <your goal for the year>
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
