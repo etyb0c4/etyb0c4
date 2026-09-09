@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/attack.jpg" alt="Wings of Freedom" width="170">
+</p>
+
 <h1 align="center"><b>Rayan SAMA</b></h1>
 
 <p align="center">
