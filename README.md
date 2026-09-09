@@ -1,7 +1,7 @@
 <h1 align="center">Rayan Sama</h1>
 
 <p align="center">
-  <em>Étudiant Epitech Benin · dev full stack · passionné cybersécurité offensive-defensive</em>
+  <em>Epitech Benin student · full-stack developer · offensive &amp; defensive security enthusiast</em>
 </p>
 
 <p align="center">
@@ -12,26 +12,26 @@
 
 ---
 
-### 👋 À propos
+### 👋 About me
 
-- 🎓 Étudiant à **Epitech**, où j'apprends à construire des systemes, avant de les casser
-- 🛡️ Je passe mon temps libre sur du **pentest** (HTB / rootme) et des *ctf* (capture the flag)
-- 🧰 Je construis mes propres outils quand ceux qui existent me ralentissent
-- 🌍 FR / EN — ouvert aux **stages** - **emplois** et aux **projets** (open source ou non)
+- 🎓 Student at **Epitech Benin**, learning to build systems before breaking them
+- 🛡️ I spend my free time on **pentesting** (HackTheBox, Root-Me) and **CTFs**
+- 🧰 I build my own tools whenever the existing ones slow me down
+- 🌍 FR / EN — open to **internships**, **jobs** and **projects**, open source or not
 
-### 🔭 En ce moment
+### 🔭 Currently
 
 ```text
-En cours    →  <projet principal du moment>
-J'apprends  →  Rust, exploitation binaire, Docker
-Objectif    →  <ton objectif de l'année, ex: OSCP / un stage / 1000 commits>
+Building   →  <your main project right now>
+Learning   →  Rust, binary exploitation, Docker
+Goal       →  <your goal for the year>
 ```
 
 ---
 
-### 💻 Stack
+### 🧰 Stack
 
-**Langages**
+**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -42,32 +42,80 @@ Objectif    →  <ton objectif de l'année, ex: OSCP / un stage / 1000 commits>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Outils & environnement**
+**Tools & environment**
 
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Vscode](https://img.shields.io/badge/VsCode-57A143?style=flat-square&logo=neovim&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 
-**Sécurité**
+---
 
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnu&logoColor=white)
+### 🛡️ Security
+
+**Recon & enumeration**
+
+![Nmap](https://img.shields.io/badge/Nmap-1F6FEB?style=flat-square)
+![ffuf](https://img.shields.io/badge/ffuf-1F6FEB?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-1F6FEB?style=flat-square)
+![feroxbuster](https://img.shields.io/badge/feroxbuster-1F6FEB?style=flat-square)
+![BBOT](https://img.shields.io/badge/BBOT-1F6FEB?style=flat-square)
+![recon-ng](https://img.shields.io/badge/recon--ng-1F6FEB?style=flat-square)
+![Nuclei](https://img.shields.io/badge/Nuclei-1F6FEB?style=flat-square)
+
+**Web**
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-FF6633?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP-FF6633?style=flat-square&logo=owasp&logoColor=white)
+
+**Reverse engineering & exploitation**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-8957E5?style=flat-square)
+![jadx](https://img.shields.io/badge/jadx-8957E5?style=flat-square)
+![GDB](https://img.shields.io/badge/GDB-8957E5?style=flat-square&logo=gnu&logoColor=white)
+![pwntools](https://img.shields.io/badge/pwntools-8957E5?style=flat-square&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-8957E5?style=flat-square&logo=metasploit&logoColor=white)
+
+**Network**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1679A7?style=flat-square)
+![aircrack-ng](https://img.shields.io/badge/aircrack--ng-1679A7?style=flat-square)
+
+**Password cracking**
+
+![Hydra](https://img.shields.io/badge/Hydra-B4342B?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-B4342B?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-B4342B?style=flat-square&logo=hashcat&logoColor=white)
+
+**Forensics & steganography**
+
+![Volatility](https://img.shields.io/badge/Volatility-3FB950?style=flat-square)
+![binwalk](https://img.shields.io/badge/binwalk-3FB950?style=flat-square)
+![steghide](https://img.shields.io/badge/steghide-3FB950?style=flat-square)
+![ExifTool](https://img.shields.io/badge/ExifTool-3FB950?style=flat-square)
+
+**Platforms**
+
+![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Root-Me](https://img.shields.io/badge/Root--Me-111927?style=flat-square&logo=rootme&logoColor=E33B3B)
 
 ---
 
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="stats">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="top langs">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&card_width=450" alt="stats">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=etyb0c4&theme=shadow_red&hide_border=true&include_all_commits=true&layout=compact&card_width=320" alt="top langs">
 </p>
 
 <p align="center">
