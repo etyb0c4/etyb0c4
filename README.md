@@ -1,4 +1,4 @@
-<h1 align="center">Rayan Sama</h1>
+<h1 align="center">Rayan SAMA</h1>
 
 <p align="center">
   <em>Epitech Benin student · full-stack developer · offensive &amp; defensive security enthusiast</em>
@@ -18,13 +18,14 @@
 - 🛡️ I spend my free time on **pentesting** (HackTheBox, Root-Me) and **CTFs**
 - 🧰 I build my own tools whenever the existing ones slow me down
 - 🌍 FR / EN — open to **internships**, **jobs** and **projects**, open source or not
+- 📍 Currently located at Cotonou, Benin 🇧🇯
 
 ### 🔭 Currently
 
 ```text
-Building   →  <your main project right now>
-Learning   →  Rust, binary exploitation, Docker
-Goal       →  <your goal for the year>
+Building   →  <coming...>
+Learning   →  <coming...>
+Goal       →  <coming...>
 ```
 
 ---
@@ -51,8 +52,6 @@ Goal       →  <your goal for the year>
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
@@ -103,11 +102,6 @@ Goal       →  <your goal for the year>
 ![binwalk](https://img.shields.io/badge/binwalk-3FB950?style=flat-square)
 ![steghide](https://img.shields.io/badge/steghide-3FB950?style=flat-square)
 ![ExifTool](https://img.shields.io/badge/ExifTool-3FB950?style=flat-square)
-
-**Platforms**
-
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
-![Root-Me](https://img.shields.io/badge/Root--Me-111927?style=flat-square&logo=rootme&logoColor=E33B3B)
 
 ---
 
