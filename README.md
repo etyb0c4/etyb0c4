@@ -16,14 +16,14 @@
 
 ---
 
-### 👋 About me
+## 👋 About me
 
 - 🎓 Student at **Epitech Benin**, learning to build systems before breaking them
 - 🛡️ I spend my free time on **pentesting** (HackTheBox, Root-Me) and **CTFs**
 - 🧰 I build my own tools whenever the existing ones slow me down
 - 🌍 FR / EN — open to **internships**, **jobs** and **projects**, open source or not
 
-### 🔭 Currently
+## 🔭 Currently
 
 ```text
 Building   →  <coming soon.../>
@@ -33,7 +33,7 @@ Goal       →  <coming soon.../>
 
 ---
 
-### 💻 Stack
+## 💻 Stack
 
 **Languages**
 
@@ -62,7 +62,7 @@ Goal       →  <coming soon.../>
 
 ---
 
-### 🛡️ Security
+## 🛡️ Security
 
 **Recon & enumeration**
 
@@ -106,6 +106,13 @@ Goal       →  <coming soon.../>
 ![binwalk](https://img.shields.io/badge/binwalk-3FB950?style=flat-square)
 ![steghide](https://img.shields.io/badge/steghide-3FB950?style=flat-square)
 ![ExifTool](https://img.shields.io/badge/ExifTool-3FB950?style=flat-square)
+
+---
+
+<!-- ## 📜 Certifications
+
+* **CS50P: Introduction to Programming with Python** – HarvardX ([Vérifier le certificat](https://lien-vers-votre-certificat))
+* **AWS Certified Cloud Practitioner** – Amazon Web Services ([Vérifier le certificat](https://lien-vers-votre-certificat)) -->
 
 ---
 
