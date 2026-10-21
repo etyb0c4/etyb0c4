@@ -109,14 +109,14 @@ Goal       →  <coming soon.../>
 
 ---
 
-<!-- ## 📜 Certifications
+## 📜 Certifications
 
-* **CS50P: Introduction to Programming with Python** – HarvardX ([Vérifier le certificat](https://lien-vers-votre-certificat))
-* **AWS Certified Cloud Practitioner** – Amazon Web Services ([Vérifier le certificat](https://lien-vers-votre-certificat)) -->
+* **HarvardX - CS50P: Introduction to Programming with Python** – ([Vérifier le certificat](https://certificates.cs50.io/18a60afa-04c1-412c-b272-41791f9fe175.pdf?size=letter))
+* **Anthropic - AI Fluency: Framework & Foundations** – ([Vérifier le certificat](https://verify.skilljar.com/c/k8bjpfwwyta4))
 
 ---
 
-<!-- ### 📊 Stats
+### 📊 Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=etyb0c4&theme=shadow_red&hide_border=true&card_width=450" alt="stats">
@@ -133,4 +133,4 @@ Goal       →  <coming soon.../>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=etyb0c4&style=flat-square&color=B4342B&label=Profile+views" alt="views">
-</p> -->
+</p>
